@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/25728/CLionProjects/untitled31/RoomType.h
+string
+-
+
+C:/Users/25728/CLionProjects/untitled31/main.cpp
+iostream
+-
+string
+-
+time.h
+-
+random
+-
+RoomType.h
+C:/Users/25728/CLionProjects/untitled31/RoomType.h
+
